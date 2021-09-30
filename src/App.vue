@@ -1,14 +1,14 @@
 <template>
-  <editor/>
+  <Editor/>
 </template>
 
 <script>
-import editor from './components/editor.vue'
+import Editor from './components/Editor.vue'
 
 export default {
   name: 'App',
   components: {
-    editor
+    Editor
   }
 }
 </script>
